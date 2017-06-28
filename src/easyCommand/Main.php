@@ -20,4 +20,7 @@ public function onEnable(){
      $player = $sender->getPlayer();
        $player->setGamemode(0);
        break;
-      case 'f':
+      case 'h':
+     $sender->setHealth(20);
+   }
+ }
