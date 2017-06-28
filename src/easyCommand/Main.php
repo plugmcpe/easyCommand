@@ -22,5 +22,6 @@ public function onEnable(){
        break;
       case 'h':
      $sender->setHealth(20);
+       break;
    }
  }
