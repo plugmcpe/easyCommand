@@ -3,3 +3,10 @@ main: easyCommand\Main
 version: 1.0v
 api: 3.0.0
 author: plugmcpe
+commands:
+  g1:
+      description: set gamemode1
+  g0:
+      description: set gamemode0
+  h:
+      description: heal yourself
